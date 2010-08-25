@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" android:id="@+id/desc_baseLayout" android:clickable="false" android:focusable="false" android:focusableInTouchMode="false">
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:background="#888888"
+        android:layout_width="fill_parent" android:id="@+id/desc_timeLayout">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/calendar_month" android:textColor="#ffffff" android:textSize="20sp" android:id="@+id/desc_calendar_month"></TextView><TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:text="sample_day"
+            android:id="@+id/desc_day" android:textSize="20sp"></TextView>
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="#ffffff" android:textSize="20sp" android:id="@+id/desc_calendar_day" android:text="@string/calendar_day"></TextView><TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="9:30"
+            android:textColor="#ffffff" android:id="@+id/desc_start" android:textSize="20sp" android:layout_marginLeft="10sp"></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" - "
+            android:textColor="#ffffff" android:textSize="20sp"></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="19:00"
+            android:textColor="#ffffff" android:id="@+id/desc_end" android:textSize="20sp"></TextView>
+    
+
+</LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" android:id="@+id/desc_descLayout" android:focusable="false" android:focusableInTouchMode="false">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" android:id="@+id/desc_titleLayout">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="sample_title"
+                android:textColor="#ffffff"
+                android:id="@+id/desc_title" android:textSize="22sp"></TextView>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" android:id="@+id/desc_subLayout"><TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="sample_room" android:layout_marginRight="10sp" android:textColor="#aaaaaa" android:id="@+id/desc_room" android:textSize="20sp"></TextView>
+                
+                
+            </LinearLayout><TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="sample_speaker" android:textColor="@color/ruby" android:id="@+id/desc_speaker" android:textSize="20sp"></TextView>
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/desc_desc" android:text="sample_description" android:textColor="#ffffff" android:textSize="16sp"></TextView></LinearLayout>
+    </LinearLayout>
+
+
+<LinearLayout android:id="@+id/LinearLayout01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal"><TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:textSize="16sp" android:text="["></TextView><TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:textSize="16sp" android:text="sample_lang" android:id="@+id/desc_lang"></TextView><TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="]" android:textSize="16sp"></TextView></LinearLayout>
+
+
+
+</LinearLayout>

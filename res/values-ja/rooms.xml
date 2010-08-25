@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="rooms">
+        <item>*</item>
+        <item>大ホール</item>
+        <item>中ホール200</item>
+        <item>202-B</item>
+        <item>202-A</item>
+        <item>201-B</item>
+        <item>201-A</item>
+        <item>ホワイエ</item>
+        <item>多目的ホール</item>
+    </string-array>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="form_keyword">keyword</string>
+    <string name="form_empty">event_missing</string>
+</resources>

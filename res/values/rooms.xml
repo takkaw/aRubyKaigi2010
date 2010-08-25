@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="rooms">
+        <item>*</item>
+        <item>Main Convention Hall</item>
+        <item>Convention Hall 200</item>
+        <item>202-B</item>
+        <item>202-A</item>
+        <item>201-B</item>
+        <item>201-A</item>
+        <item>Foyer</item>
+        <item>Multi Purpose Hall</item>
+    </string-array>
+</resources>

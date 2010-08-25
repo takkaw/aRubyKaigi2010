@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" android:id="@+id/item_baseLayout">
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:background="#888888"
+        android:layout_width="fill_parent" android:id="@+id/item_timeLayout">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="#ffffff" android:text="@string/calendar_month" android:id="@+id/item_calendar_month"></TextView><TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:text="sample_day"
+            android:id="@+id/item_day"></TextView><TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="#ffffff" android:text="@string/calendar_day" android:id="@+id/item_calendar_day"></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="9:30"
+            android:textColor="#ffffff" android:id="@+id/item_start" android:layout_marginLeft="10sp"></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" - "
+            android:textColor="#ffffff"></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="19:00"
+            android:textColor="#ffffff" android:id="@+id/item_end"></TextView>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" android:id="@+id/item_descLayout">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" android:id="@+id/item_titleLayout">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="sample_title"
+                android:textColor="#ffffff"
+                android:textSize="20sp" android:id="@+id/item_title"></TextView>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" android:id="@+id/item_subLayout">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="sample_room"
+                    android:layout_marginRight="10sp"
+                    android:textColor="#aaaaaa" android:id="@+id/item_room"></TextView>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="sample_speaker"
+                    android:textColor="@color/ruby" android:id="@+id/item_speaker"></TextView>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+
+</LinearLayout>

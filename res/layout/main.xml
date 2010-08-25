@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<LinearLayout
+		android:id="@+id/LinearLayout07"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:orientation="vertical"
+		android:background="#aaaaaa">
+		<LinearLayout
+			android:id="@+id/LinearLayout02"
+			android:layout_height="wrap_content"
+			android:layout_width="fill_parent"
+			android:orientation="horizontal">
+			<LinearLayout
+				android:id="@+id/LinearLayout06"
+				android:layout_height="wrap_content"
+				android:layout_weight="1"
+				android:layout_width="1000dip">
+				<ImageView
+					android:id="@+id/ImageView02"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:src="@android:drawable/ic_menu_search"></ImageView>
+                
+                <EditText android:layout_height="wrap_content" android:layout_width="fill_parent" android:hint="@string/form_keyword" android:id="@+id/search_box" android:singleLine="true"></EditText>
+			</LinearLayout>
+			<LinearLayout
+				android:id="@+id/LinearLayout05"
+				android:layout_height="wrap_content"
+				android:layout_weight="1"
+				android:layout_width="1000dip">
+				<ImageView
+					android:id="@+id/ImageView01"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:src="@*android:drawable/ic_menu_start_conversation"></ImageView>
+                
+                <Spinner android:layout_height="wrap_content" android:id="@+id/lang_selecter" android:entries="@array/langs" android:layout_width="fill_parent"></Spinner>
+			</LinearLayout>
+			
+        
+
+
+</LinearLayout><LinearLayout
+			android:orientation="horizontal"
+			android:id="@+id/LinearLayout01"
+			android:layout_height="wrap_content"
+			android:layout_width="fill_parent"
+		>
+			<LinearLayout
+				android:id="@+id/LinearLayout03"
+				android:layout_height="wrap_content"
+				android:layout_weight="1"
+				android:layout_width="1000dip"
+			>
+				<ImageView
+					android:id="@+id/ImageView03"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:src="@android:drawable/ic_menu_today"
+				></ImageView>
+                
+                <Spinner
+                    android:id="@+id/day_selecter"
+                    android:layout_height="wrap_content"
+                    android:entries="@array/days"
+                    android:layout_width="fill_parent"></Spinner>
+            
+			</LinearLayout>
+			<LinearLayout
+				android:id="@+id/LinearLayout04"
+				android:layout_height="wrap_content"
+				android:layout_weight="1"
+				android:layout_width="1000dip"
+			>
+				<ImageView
+					android:id="@+id/ImageView04"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:src="@android:drawable/ic_menu_myplaces"
+				></ImageView>
+                
+                <Spinner
+                    android:id="@+id/room_selecter"
+                    android:layout_height="wrap_content"
+                    android:entries="@array/rooms"
+                    android:layout_width="fill_parent"></Spinner>
+			</LinearLayout>
+		</LinearLayout>
+		
+    </LinearLayout>
+    <ListView
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:id="@+id/list"></ListView>
+	<TextView
+		android:layout_height="fill_parent"
+		android:layout_width="fill_parent"
+		android:id="@+id/empty"
+		android:textSize="26sp"
+		android:text="@string/form_empty"
+		android:textColor="@color/ruby"
+	></TextView>
+</LinearLayout>

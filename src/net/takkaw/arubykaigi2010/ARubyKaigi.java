@@ -70,7 +70,7 @@ public class ARubyKaigi extends Activity implements OnItemSelectedListener,
 			Log.v("diff!!","diff!!");
 			dbHelper.reCreateDB();
 			SharedPreferences.Editor editor = pref.edit();
-			editor.putString("dbLang", now);
+			editor.putString("dbRevision", now);
 			editor.commit();
 		}
 		Log.v("end","end");	

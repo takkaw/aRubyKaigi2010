@@ -1,0 +1,15 @@
+icon.png
+
+Author:
+
+ norio
+
+URL:
+
+ http://twitter.com/norio
+
+
+License:
+
+ CC-by-3.0
+ http://creativecommons.org/licenses/by/3.0/

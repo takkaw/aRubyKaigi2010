@@ -27,7 +27,8 @@ public final class R {
         public static final int ruby=0x7f050000;
     }
     public static final class drawable {
-        public static final int icon=0x7f020000;
+        public static final int ic_menu_start_conversation=0x7f020000;
+        public static final int icon=0x7f020001;
     }
     public static final class id {
         public static final int ImageView01=0x7f080023;

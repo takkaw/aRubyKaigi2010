@@ -140,9 +140,11 @@ public class ARubyKaigi extends Activity implements OnItemSelectedListener,
 
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
+		Uri uri;
+		Intent intent;
 		switch (item.getItemId()) {
 		case R.id.menu_map:
-			Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("geo:0,0?q=つくば国際会議場"));
+			intent = new Intent(Intent.ACTION_VIEW, Uri.parse("geo:0,0?q=つくば国際会議場"));
 			startActivity(intent);
 			return true;
 		case R.id.menu_info:
@@ -151,6 +153,16 @@ public class ARubyKaigi extends Activity implements OnItemSelectedListener,
 			.getString(R.string.menu_info_title))
 			.setMessage(getResources().getString(R.string.menu_info_message))
 			.show();
+			return true;
+		case R.id.menu_guide:
+			uri = Uri.parse("http://jp.rubyist.net/magazine/?preRubyKaigi2010-05");
+			intent = new Intent(Intent.ACTION_VIEW,uri);
+			startActivity(intent);
+			return true;
+		case R.id.menu_tdiary:
+			uri = Uri.parse("http://rubykaigi.tdiary.net/");
+			intent = new Intent(Intent.ACTION_VIEW,uri);
+			startActivity(intent);
 			return true;
 /*
 		case R.id.menu_dbdrop:

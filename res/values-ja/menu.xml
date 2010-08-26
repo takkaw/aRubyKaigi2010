@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string
+		name="menu_guide_label">参加者のしおり</string>
+	<string
+		name="menu_tdiary_label">RubyKaigi日記</string>
+</resources>

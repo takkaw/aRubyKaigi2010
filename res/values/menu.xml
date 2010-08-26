@@ -5,6 +5,10 @@
 	<string
 		name="menu_info_label">about</string>
 	<string
+		name="menu_guide_label">Attendee's guide(ja)</string>
+	<string
+		name="menu_tdiary_label">RubyKaigi nikki(ja)</string>
+	<string
 		name="menu_info_title">aRubyKaigi2010</string>
 	<string
 		name="menu_info_message">This software is an unofficial RubyKaigi2010 program viewer.

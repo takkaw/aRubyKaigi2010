@@ -74,9 +74,11 @@ public final class R {
         public static final int item_titleLayout=0x7f080018;
         public static final int lang_selecter=0x7f080024;
         public static final int list=0x7f08002b;
-        public static final int menu_info=0x7f08002f;
+        public static final int menu_guide=0x7f08002f;
+        public static final int menu_info=0x7f080031;
         public static final int menu_map=0x7f08002e;
         public static final int menu_share=0x7f08002d;
+        public static final int menu_tdiary=0x7f080030;
         public static final int room_selecter=0x7f08002a;
         public static final int search_box=0x7f080021;
     }
@@ -90,17 +92,19 @@ public final class R {
         public static final int main_menu=0x7f070001;
     }
     public static final class string {
-        public static final int app_name=0x7f04000b;
+        public static final int app_name=0x7f04000d;
         public static final int calendar_day=0x7f040001;
         public static final int calendar_month=0x7f040000;
         public static final int db_revision=0x7f040002;
         public static final int form_empty=0x7f040004;
         public static final int form_keyword=0x7f040003;
-        public static final int menu_dbdrop_label=0x7f040009;
+        public static final int menu_dbdrop_label=0x7f04000b;
+        public static final int menu_guide_label=0x7f040007;
         public static final int menu_info_label=0x7f040006;
-        public static final int menu_info_message=0x7f040008;
-        public static final int menu_info_title=0x7f040007;
+        public static final int menu_info_message=0x7f04000a;
+        public static final int menu_info_title=0x7f040009;
         public static final int menu_map_label=0x7f040005;
-        public static final int menu_share_label=0x7f04000a;
+        public static final int menu_share_label=0x7f04000c;
+        public static final int menu_tdiary_label=0x7f040008;
     }
 }

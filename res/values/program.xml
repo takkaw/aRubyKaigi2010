@@ -103,322 +103,370 @@
 <item>29</item>
 <item>29</item>
 <item>29</item>
+<item>28</item>
+<item>28</item>
+<item>28</item>
+<item>28</item>
+<item>28</item>
+<item>28</item>
+<item>29</item>
+<item>29</item>
+<item>29</item>
+<item>29</item>
+<item>29</item>
 </string-array>
-    <string-array name="room">
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>202-B</item>
-        <item>202-A</item>
-        <item>202-A</item>
-        <item>202-A</item>
-        <item>201-B</item>
-        <item>201-B</item>
-        <item>Foyer</item>
-        <item>Foyer</item>
-        <item>Multi Purpose Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>202-B</item>
-        <item>202-A</item>
-        <item>202-A</item>
-        <item>202-A</item>
-        <item>201-B</item>
-        <item>201-B</item>
-        <item>201-B</item>
-        <item>201-B</item>
-        <item>201-A</item>
-        <item>201-A</item>
-        <item>Foyer</item>
-        <item>Multi Purpose Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Main Convention Hall</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>Convention Hall 200</item>
-        <item>202-B</item>
-        <item>202-B</item>
-        <item>202-A</item>
-        <item>202-A</item>
-        <item>202-A</item>
-        <item>201-B</item>
-        <item>201-B</item>
-        <item>201-B</item>
-        <item>Foyer</item>
-    </string-array>
-    <string-array name="start">
-        <item>12:30</item>
-        <item>13:00</item>
-        <item>14:00</item>
-        <item>14:30</item>
-        <item>15:00</item>
-        <item>15:30</item>
-        <item>16:00</item>
-        <item>17:00</item>
-        <item>17:30</item>
-        <item>18:00</item>
-        <item>14:00</item>
-        <item>14:30</item>
-        <item>15:00</item>
-        <item>15:30</item>
-        <item>16:00</item>
-        <item>16:30</item>
-        <item>17:00</item>
-        <item>17:30</item>
-        <item>18:00</item>
-        <item>17:30</item>
-        <item>10:00</item>
-        <item>14:00</item>
-        <item>16:00</item>
-        <item>14:00</item>
-        <item>16:00</item>
-        <item>13:00</item>
-        <item>13:00</item>
-        <item>19:00</item>
-        <item>09:30</item>
-        <item>11:00</item>
-        <item>12:00</item>
-        <item>13:30</item>
-        <item>14:00</item>
-        <item>14:30</item>
-        <item>15:00</item>
-        <item>15:30</item>
-        <item>16:30</item>
-        <item>17:00</item>
-        <item>17:00</item>
-        <item>17:00</item>
-        <item>17:00</item>
-        <item>17:00</item>
-        <item>17:00</item>
-        <item>17:00</item>
-        <item>17:00</item>
-        <item>17:00</item>
-        <item>17:00</item>
-        <item>17:00</item>
-        <item>09:30</item>
-        <item>10:00</item>
-        <item>10:30</item>
-        <item>12:00</item>
-        <item>13:30</item>
-        <item>14:30</item>
-        <item>15:00</item>
-        <item>15:30</item>
-        <item>16:30</item>
-        <item>12:00</item>
-        <item>09:30</item>
-        <item>12:00</item>
-        <item>13:30</item>
-        <item>09:30</item>
-        <item>12:00</item>
-        <item>13:30</item>
-        <item>15:00</item>
-        <item>12:00</item>
-        <item>13:30</item>
-        <item>12:00</item>
-        <item>18:30</item>
-        <item>09:30</item>
-        <item>10:00</item>
-        <item>10:30</item>
-        <item>11:00</item>
-        <item>12:00</item>
-        <item>13:30</item>
-        <item>14:30</item>
-        <item>15:00</item>
-        <item>15:30</item>
-        <item>16:00</item>
-        <item>16:30</item>
-        <item>17:30</item>
-        <item>09:30</item>
-        <item>10:00</item>
-        <item>10:30</item>
-        <item>11:00</item>
-        <item>11:30</item>
-        <item>12:00</item>
-        <item>13:30</item>
-        <item>14:00</item>
-        <item>14:30</item>
-        <item>15:00</item>
-        <item>15:30</item>
-        <item>16:00</item>
-        <item>10:00</item>
-        <item>13:30</item>
-        <item>10:00</item>
-        <item>12:00</item>
-        <item>13:30</item>
-        <item>10:00</item>
-        <item>12:00</item>
-        <item>13:30</item>
-        <item>10:00</item>
-    </string-array>
-    <string-array name="end">
-        <item>13:00</item>
-        <item>14:00</item>
-        <item>14:30</item>
-        <item>15:00</item>
-        <item>15:30</item>
-        <item>16:00</item>
-        <item>17:00</item>
-        <item>17:30</item>
-        <item>18:00</item>
-        <item>19:00</item>
-        <item>14:30</item>
-        <item>15:00</item>
-        <item>15:30</item>
-        <item>16:00</item>
-        <item>16:30</item>
-        <item>17:00</item>
-        <item>17:30</item>
-        <item>18:00</item>
-        <item>19:00</item>
-        <item>19:00</item>
-        <item>12:30</item>
-        <item>16:00</item>
-        <item>18:00</item>
-        <item>16:00</item>
-        <item>18:00</item>
-        <item>15:30</item>
-        <item>15:30</item>
-        <item>19:30</item>
-        <item>11:00</item>
-        <item>12:00</item>
-        <item>13:30</item>
-        <item>14:00</item>
-        <item>14:30</item>
-        <item>15:00</item>
-        <item>15:30</item>
-        <item>16:30</item>
-        <item>17:00</item>
-        <item>18:00</item>
-        <item>18:00</item>
-        <item>18:00</item>
-        <item>18:00</item>
-        <item>18:00</item>
-        <item>18:00</item>
-        <item>18:00</item>
-        <item>18:00</item>
-        <item>18:00</item>
-        <item>18:00</item>
-        <item>18:00</item>
-        <item>10:00</item>
-        <item>10:30</item>
-        <item>11:00</item>
-        <item>13:30</item>
-        <item>14:30</item>
-        <item>15:00</item>
-        <item>15:30</item>
-        <item>16:30</item>
-        <item>17:00</item>
-        <item>18:00</item>
-        <item>11:00</item>
-        <item>13:30</item>
-        <item>18:00</item>
-        <item>11:00</item>
-        <item>13:30</item>
-        <item>15:00</item>
-        <item>16:30</item>
-        <item>13:30</item>
-        <item>17:00</item>
-        <item>17:00</item>
-        <item>20:30</item>
-        <item>10:00</item>
-        <item>10:30</item>
-        <item>11:00</item>
-        <item>12:00</item>
-        <item>13:30</item>
-        <item>14:30</item>
-        <item>15:00</item>
-        <item>15:30</item>
-        <item>16:00</item>
-        <item>16:30</item>
-        <item>17:30</item>
-        <item>18:00</item>
-        <item>10:00</item>
-        <item>10:30</item>
-        <item>11:00</item>
-        <item>11:30</item>
-        <item>12:00</item>
-        <item>13:30</item>
-        <item>14:00</item>
-        <item>14:30</item>
-        <item>15:00</item>
-        <item>15:30</item>
-        <item>16:00</item>
-        <item>16:30</item>
-        <item>12:00</item>
-        <item>15:00</item>
-        <item>12:00</item>
-        <item>13:30</item>
-        <item>16:00</item>
-        <item>12:00</item>
-        <item>13:30</item>
-        <item>16:30</item>
-        <item>16:30</item>
-    </string-array>
+
+<string-array name="room">
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>202-B</item>
+<item>202-A</item>
+<item>202-A</item>
+<item>202-A</item>
+<item>201-B</item>
+<item>201-B</item>
+<item>Foyer</item>
+<item>Foyer</item>
+<item>Multi Purpose Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>202-B</item>
+<item>202-A</item>
+<item>202-A</item>
+<item>202-A</item>
+<item>201-B</item>
+<item>201-B</item>
+<item>201-B</item>
+<item>201-B</item>
+<item>201-A</item>
+<item>201-A</item>
+<item>Foyer</item>
+<item>Multi Purpose Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Main Convention Hall</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>Convention Hall 200</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-A</item>
+<item>202-A</item>
+<item>202-A</item>
+<item>201-B</item>
+<item>201-B</item>
+<item>201-B</item>
+<item>Foyer</item>
+<item>BookStore JUNKDO</item>
+<item>BookStore JUNKDO</item>
+<item>BookStore JUNKDO</item>
+<item>BookStore JUNKDO</item>
+<item>BookStore JUNKDO</item>
+<item>BookStore JUNKDO</item>
+<item>BookStore JUNKDO</item>
+<item>BookStore JUNKDO</item>
+<item>BookStore JUNKDO</item>
+<item>BookStore JUNKDO</item>
+<item>BookStore JUNKDO</item>
+</string-array>
+
+<string-array name="start">
+<item>12:30</item>
+<item>13:00</item>
+<item>14:00</item>
+<item>14:30</item>
+<item>15:00</item>
+<item>15:30</item>
+<item>16:00</item>
+<item>17:00</item>
+<item>17:30</item>
+<item>18:00</item>
+<item>14:00</item>
+<item>14:30</item>
+<item>15:00</item>
+<item>15:30</item>
+<item>16:00</item>
+<item>16:30</item>
+<item>17:00</item>
+<item>17:30</item>
+<item>18:00</item>
+<item>17:30</item>
+<item>10:00</item>
+<item>14:00</item>
+<item>16:00</item>
+<item>14:00</item>
+<item>16:00</item>
+<item>13:00</item>
+<item>13:00</item>
+<item>19:00</item>
+<item>09:30</item>
+<item>11:00</item>
+<item>12:00</item>
+<item>13:30</item>
+<item>14:00</item>
+<item>14:30</item>
+<item>15:00</item>
+<item>15:30</item>
+<item>16:30</item>
+<item>17:00</item>
+<item>17:00</item>
+<item>17:00</item>
+<item>17:00</item>
+<item>17:00</item>
+<item>17:00</item>
+<item>17:00</item>
+<item>17:00</item>
+<item>17:00</item>
+<item>17:00</item>
+<item>17:00</item>
+<item>09:30</item>
+<item>10:00</item>
+<item>10:30</item>
+<item>12:00</item>
+<item>13:30</item>
+<item>14:30</item>
+<item>15:00</item>
+<item>15:30</item>
+<item>16:30</item>
+<item>12:00</item>
+<item>09:30</item>
+<item>12:00</item>
+<item>13:30</item>
+<item>09:30</item>
+<item>12:00</item>
+<item>13:30</item>
+<item>15:00</item>
+<item>12:00</item>
+<item>13:30</item>
+<item>12:00</item>
+<item>18:30</item>
+<item>09:30</item>
+<item>10:00</item>
+<item>10:30</item>
+<item>11:00</item>
+<item>12:00</item>
+<item>13:30</item>
+<item>14:30</item>
+<item>15:00</item>
+<item>15:30</item>
+<item>16:00</item>
+<item>16:30</item>
+<item>17:30</item>
+<item>09:30</item>
+<item>10:00</item>
+<item>10:30</item>
+<item>11:00</item>
+<item>11:30</item>
+<item>12:00</item>
+<item>13:30</item>
+<item>14:00</item>
+<item>14:30</item>
+<item>15:00</item>
+<item>15:30</item>
+<item>16:00</item>
+<item>10:00</item>
+<item>13:30</item>
+<item>10:00</item>
+<item>12:00</item>
+<item>13:30</item>
+<item>10:00</item>
+<item>12:00</item>
+<item>13:30</item>
+<item>10:00</item>
+<item>12:00</item>
+<item>12:00</item>
+<item>15:00</item>
+<item>15:00</item>
+<item>15:00</item>
+<item>16:30</item>
+<item>12:00</item>
+<item>12:00</item>
+<item>12:00</item>
+<item>14:30</item>
+<item>14:30</item>
+</string-array>
+
+<string-array name="end">
+<item>13:00</item>
+<item>14:00</item>
+<item>14:30</item>
+<item>15:00</item>
+<item>15:30</item>
+<item>16:00</item>
+<item>17:00</item>
+<item>17:30</item>
+<item>18:00</item>
+<item>19:00</item>
+<item>14:30</item>
+<item>15:00</item>
+<item>15:30</item>
+<item>16:00</item>
+<item>16:30</item>
+<item>17:00</item>
+<item>17:30</item>
+<item>18:00</item>
+<item>19:00</item>
+<item>19:00</item>
+<item>12:30</item>
+<item>16:00</item>
+<item>18:00</item>
+<item>16:00</item>
+<item>18:00</item>
+<item>15:30</item>
+<item>15:30</item>
+<item>19:30</item>
+<item>11:00</item>
+<item>12:00</item>
+<item>13:30</item>
+<item>14:00</item>
+<item>14:30</item>
+<item>15:00</item>
+<item>15:30</item>
+<item>16:30</item>
+<item>17:00</item>
+<item>18:00</item>
+<item>18:00</item>
+<item>18:00</item>
+<item>18:00</item>
+<item>18:00</item>
+<item>18:00</item>
+<item>18:00</item>
+<item>18:00</item>
+<item>18:00</item>
+<item>18:00</item>
+<item>18:00</item>
+<item>10:00</item>
+<item>10:30</item>
+<item>11:00</item>
+<item>13:30</item>
+<item>14:30</item>
+<item>15:00</item>
+<item>15:30</item>
+<item>16:30</item>
+<item>17:00</item>
+<item>18:00</item>
+<item>11:00</item>
+<item>13:30</item>
+<item>18:00</item>
+<item>11:00</item>
+<item>13:30</item>
+<item>15:00</item>
+<item>16:30</item>
+<item>13:30</item>
+<item>17:00</item>
+<item>17:00</item>
+<item>20:30</item>
+<item>10:00</item>
+<item>10:30</item>
+<item>11:00</item>
+<item>12:00</item>
+<item>13:30</item>
+<item>14:30</item>
+<item>15:00</item>
+<item>15:30</item>
+<item>16:00</item>
+<item>16:30</item>
+<item>17:30</item>
+<item>18:00</item>
+<item>10:00</item>
+<item>10:30</item>
+<item>11:00</item>
+<item>11:30</item>
+<item>12:00</item>
+<item>13:30</item>
+<item>14:00</item>
+<item>14:30</item>
+<item>15:00</item>
+<item>15:30</item>
+<item>16:00</item>
+<item>16:30</item>
+<item>12:00</item>
+<item>15:00</item>
+<item>12:00</item>
+<item>13:30</item>
+<item>16:00</item>
+<item>12:00</item>
+<item>13:30</item>
+<item>16:30</item>
+<item>16:30</item>
+<item>13:30</item>
+<item>13:30</item>
+<item>15:30</item>
+<item>15:30</item>
+<item>15:30</item>
+<item>17:00</item>
+<item>13:30</item>
+<item>13:30</item>
+<item>13:30</item>
+<item>15:00</item>
+<item>15:00</item>
+</string-array>
+
 <string-array name="title">
 <item>Opening</item>
-<item>Keynote</item>
+<item>(To Be Announced)</item>
 <item>jpmobile on Rails 3</item>
 <item>Open social application development for cell-phones to begin in Ruby on Rails</item>
 <item>Break</item>
@@ -519,114 +567,138 @@
 <item>Ruby powering 9 million dining tables</item>
 <item>Making MS-Win32 Ruby Hands-ON</item>
 <item>The Origami Ruby (paper craft) Generated by The Ruby</item>
+<item>[Autograph Session] メタプログラミングRuby</item>
+<item>[Autograph Session] JavaによるRESTfulシステム構築</item>
+<item>[Autograph Session] Rubyレシピブック 第3版 303の技</item>
+<item>[Autograph Session] たのしいRuby 第3版</item>
+<item>[Autograph Session] Rubyベストプラクティス</item>
+<item>[Autograph Session] 情熱プログラマー</item>
+<item>[Autograph Session] JRuby on Rails実践開発ガイド</item>
+<item>[Autograph Session] JRuby on Railsシステム構築入門</item>
+<item>[Autograph Session] Google Wave入門</item>
+<item>[Autograph Session] Head First Rails</item>
+<item>[Autograph Session] ガベージコレクションのアルゴリズムと実装</item>
 </string-array>
-    <string-array name="speaker">
-        <item></item>
-        <item>Jeremy Kemper</item>
-        <item>Shin-ichiro OGAWA</item>
-        <item>Masaki Yamada</item>
-        <item></item>
-        <item>Makoto Inoue</item>
-        <item>nari</item>
-        <item></item>
-        <item>Yasuko Ohba</item>
-        <item>Shugo Maeda</item>
-        <item>Sarah Mei</item>
-        <item>geemus</item>
-        <item></item>
-        <item>Carl Lerche</item>
-        <item>Yehuda Katz</item>
-        <item>Sarah Allen</item>
-        <item></item>
-        <item>jugyo</item>
-        <item>tenderlove</item>
-        <item>Kuniaki IGARASHI</item>
-        <item>Ruby core team</item>
-        <item>Shouichi Nakauchi</item>
-        <item>Eiwa System Management, Inc.</item>
-        <item>Ayumu Aizawa / Ouka Yuka</item>
-        <item>Takeyuki FUJIOKA</item>
-        <item>Yasuo Yoshikawa</item>
-        <item>Hiroyuki Shimura</item>
-        <item></item>
-        <item>Yugui, Shugo Maeda</item>
-        <item>Matz</item>
-        <item></item>
-        <item>Yusuke Endoh</item>
-        <item>Kazuhiro NISHIYAMA</item>
-        <item>okkez</item>
-        <item></item>
-        <item>Tanaka Akira</item>
-        <item></item>
-        <item>Urabe, Shyouhei</item>
-        <item>Hidetoshi NAGAI</item>
-        <item>Shota Fukumori/@sora_h</item>
-        <item>Koichi Sasada</item>
-        <item>Sadayuki Furuhashi</item>
-        <item>Yoshihiko Hara</item>
-        <item>Kazki Matz</item>
-        <item>Ben Hoskings</item>
-        <item>Ando Yasushi</item>
-        <item>Masayoshi Takahashi</item>
-        <item>Tadashi Saito</item>
-        <item>Munjal Budhabhatti And Sudhindra Rao</item>
-        <item>Jiang Wu</item>
-        <item>Ted Han</item>
-        <item></item>
-        <item>Jake Scruggs</item>
-        <item>paulelliott</item>
-        <item></item>
-        <item>Paolo "Nusco" Perrotta</item>
-        <item></item>
-        <item>Koichiro Ohba / Akasaka.rb</item>
-        <item>SHIBATA Hiroshi</item>
-        <item>Akira Matsuda</item>
-        <item>Sarah Mei</item>
-        <item>Shin-ichiro OGAWA</item>
-        <item>Shyouhei Urabe w/ Yugui</item>
-        <item>Zev Blut</item>
-        <item>MOROHASHI Kyosuke</item>
-        <item>Koji Shimada</item>
-        <item>Kana</item>
-        <item>Hiroyuki Shimura</item>
-        <item></item>
-        <item>Kei Hamanaka , Yuichi Saotome</item>
-        <item>Toshiyuki Terashita</item>
-        <item>Masatoshi SEKI</item>
-        <item>Alex Sharp</item>
-        <item></item>
-        <item>Shay Friedman</item>
-        <item></item>
-        <item>Hiroshi Yoshioka</item>
-        <item>Shintaro Kakutani</item>
-        <item></item>
-        <item>Chad Fowler</item>
-        <item></item>
-        <item>Kenta Murata</item>
-        <item>Masahiro Tanaka</item>
-        <item>Hideki Miura</item>
-        <item>Satoshi Shiba</item>
-        <item>Tetsu Soh</item>
-        <item></item>
-        <item>Kouhei Sutou</item>
-        <item>Tom Lieber</item>
-        <item></item>
-        <item>SHIBATA Hiroshi</item>
-        <item>Makoto Kuwata</item>
-        <item></item>
-        <item>Koji Shimada</item>
-        <item>Kazuhiko</item>
-        <item>kumaryu</item>
-        <item>Akira Matsuda</item>
-        <item>jugyo</item>
-        <item>Kazuaki Takase</item>
-        <item>Kenta Hashimoto</item>
-        <item>Akio Tajima aka arton</item>
-        <item>Hiroyuki Shimura</item>
-    </string-array>
+
+<string-array name="speaker">
+<item></item>
+<item>To Be Announced</item>
+<item>Shin-ichiro OGAWA</item>
+<item>Masaki Yamada</item>
+<item></item>
+<item>Makoto Inoue</item>
+<item>nari</item>
+<item></item>
+<item>Yasuko Ohba</item>
+<item>Shugo Maeda</item>
+<item>Sarah Mei</item>
+<item>geemus</item>
+<item></item>
+<item>Carl Lerche</item>
+<item>Yehuda Katz</item>
+<item>Sarah Allen</item>
+<item></item>
+<item>jugyo</item>
+<item>tenderlove</item>
+<item>Kuniaki IGARASHI</item>
+<item>Ruby core team</item>
+<item>Shouichi Nakauchi</item>
+<item>Eiwa System Management, Inc.</item>
+<item>Ayumu Aizawa / Ouka Yuka</item>
+<item>Takeyuki FUJIOKA</item>
+<item>Yasuo Yoshikawa</item>
+<item>Hiroyuki Shimura</item>
+<item></item>
+<item>Yugui, Shugo Maeda</item>
+<item>Matz</item>
+<item></item>
+<item>Yusuke Endoh</item>
+<item>Kazuhiro NISHIYAMA</item>
+<item>okkez</item>
+<item></item>
+<item>Tanaka Akira</item>
+<item></item>
+<item>Urabe, Shyouhei</item>
+<item>Hidetoshi NAGAI</item>
+<item>Shota Fukumori/@sora_h</item>
+<item>Koichi Sasada</item>
+<item>Sadayuki Furuhashi</item>
+<item>Yoshihiko Hara</item>
+<item>Kazki Matz</item>
+<item>Ben Hoskings</item>
+<item>Ando Yasushi</item>
+<item>Masayoshi Takahashi</item>
+<item>Tadashi Saito</item>
+<item>Munjal Budhabhatti And Sudhindra Rao</item>
+<item>Jiang Wu</item>
+<item>Ted Han</item>
+<item></item>
+<item>Jake Scruggs</item>
+<item>paulelliott</item>
+<item></item>
+<item>Paolo "Nusco" Perrotta</item>
+<item></item>
+<item>Koichiro Ohba / Akasaka.rb</item>
+<item>SHIBATA Hiroshi</item>
+<item>Akira Matsuda</item>
+<item>Sarah Mei</item>
+<item>Shin-ichiro OGAWA</item>
+<item>Shyouhei Urabe w/ Yugui</item>
+<item>Zev Blut</item>
+<item>MOROHASHI Kyosuke</item>
+<item>Koji Shimada</item>
+<item>Kana</item>
+<item>Hiroyuki Shimura</item>
+<item></item>
+<item>Kei Hamanaka , Yuichi Saotome</item>
+<item>Toshiyuki Terashita</item>
+<item>Masatoshi SEKI</item>
+<item>Alex Sharp</item>
+<item></item>
+<item>Shay Friedman</item>
+<item></item>
+<item>Hiroshi Yoshioka</item>
+<item>Shintaro Kakutani</item>
+<item></item>
+<item>Chad Fowler</item>
+<item></item>
+<item>Kenta Murata</item>
+<item>Masahiro Tanaka</item>
+<item>Hideki Miura</item>
+<item>Satoshi Shiba</item>
+<item>Tetsu Soh</item>
+<item></item>
+<item>Kouhei Sutou</item>
+<item>Tom Lieber</item>
+<item></item>
+<item>SHIBATA Hiroshi</item>
+<item>Makoto Kuwata</item>
+<item></item>
+<item>Koji Shimada</item>
+<item>Kazuhiko</item>
+<item>kumaryu</item>
+<item>Akira Matsuda</item>
+<item>jugyo</item>
+<item>Kazuaki Takase</item>
+<item>Kenta Hashimoto</item>
+<item>Akio Tajima aka arton</item>
+<item>Hiroyuki Shimura</item>
+<item>角征典, Paolo Perrotta</item>
+<item>arton</item>
+<item>青木峰郎, 後藤裕蔵, 高橋征義, まつもとゆきひろ</item>
+<item>高橋征義, 後藤裕蔵, まつもとゆきひろ</item>
+<item>高橋征義</item>
+<item>Chad Fowler</item>
+<item>大場光一郎, 大場寧子, 田中祐樹</item>
+<item>橋本吉治</item>
+<item>あんどうやすし</item>
+<item>松田明</item>
+<item>中村 成洋</item>
+</string-array>
+
 <string-array name="desc">
 <item></item>
-<item></item>
+<item>To Be Announced (We're sorry, at Jeremy's request, his keynote has been cancelled)</item>
 <item>Jpmobile is a Rails plugin for Japanese mobile phones. This plugin features the ability to convert Japanese emoticons and Japanese kanji codes, and session management for mobile phones which can't handle HTTP cookies. In this talk, I will introduce how we rebuilt the jpmobile codebase to support Rack applications such as Rails 3 and Sinatra.</item>
 <item>In the world of the open social application development for cell-phones, PHP is a major language, but the development using Ruby on Rails is possible. I show the know-how which we got through development of our product "Sweets Collection" and introduce open social application development using Ruby on Rails.</item>
 <item></item>
@@ -695,7 +767,11 @@ If you can create T-shirt today, you can put on it tomorrow!
 
 This event open until Aug 27th 15:00 pm . price 1,500en (front or back print only!) White or Black T ,size S,M,L,XL,XXL Cash only.</item>
 <item>The Origami Ruby (paper craft) Generated by The Ruby: Let's fold origami "Ruby" like http://dl.dropbox.com/u/4921720/RubyFoldings/IMG_0362.A3_C35_Chu25.WebSmall.JPG . In the first half, we will fold origami "Ruby" together with the origami paper that has crease fold lines. In the second half, we will fold something with foil paper and cellophane paper and read a Ruby script that generates paper with crease fold lines.</item>
-<item></item>
+<item>RubyKaigi 2010 will provide a gathering place called "Community Night" for Rubyist in the community to meet up, on August 27th (Fri) at 7pm in Mutli-purpose Hall. You can run a hackathon with your fellows, or enjoy spending time talking about technical stuff with your old friends. It's all up to you.
+
+We would like to see so many Rubyist in the community join this event. Though we the organizers do not have any special plan for this night, we hope this gathering help your community more cohesive.
+
+You can drink and eat in the place. Feel free to bring your own beer, pizza or something good to make the night sparkle! (the organizers do not provide foods and drink).</item>
 <item>Many committers will come to RubyKaigi, so it's a good chance to ask them. In this event Ruby committers will answer questions from audience (or other committers).</item>
 <item></item>
 <item></item>
@@ -848,114 +924,138 @@ engineers regardless of nationality. We would appreciate participation
 of non-Japanese technicians interested in working with a Japanese 
 company.
 
-&lt;Reference&gt; 
+&lt;Reference&gt;
 Cookpad Developer Blog 
 http://techlife.cookpad.com/</item>
 <item>This hands-on is for Window user who 'd like to build own ruby, extended libs and gem. From installation of the compiler to build own extended library.</item>
 <item>Let's fold origami "Ruby" like http://dl.dropbox.com/u/4921720/RubyFoldings/IMG_0362.A3_C35_Chu25.WebSmall.JPG. In the first half, we will fold origami "Ruby" together with the origami paper that has crease fold lines. In the second half, we will fold something with foil paper and cellophane paper and read a Ruby script that generates paper with crease fold lines.</item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
 </string-array>
-    <string-array name="lang">
-        <item>en</item>
-        <item>en</item>
-        <item>ja</item>
-        <item>ja</item>
-        <item></item>
-        <item>en</item>
-        <item>ja</item>
-        <item></item>
-        <item>ja</item>
-        <item>ja</item>
-        <item>en</item>
-        <item>en</item>
-        <item></item>
-        <item>en</item>
-        <item>en</item>
-        <item>en</item>
-        <item></item>
-        <item>ja</item>
-        <item>en</item>
-        <item>en,ja</item>
-        <item>ja</item>
-        <item>ja</item>
-        <item>ja</item>
-        <item>ja</item>
-        <item>ja</item>
-        <item>ja</item>
-        <item>ja</item>
-        <item></item>
-        <item>ja</item>
-        <item>ja</item>
-        <item></item>
-        <item>ja</item>
-        <item>ja</item>
-        <item>ja</item>
-        <item></item>
-        <item>ja</item>
-        <item></item>
-        <item>ja</item>
-        <item>ja</item>
-        <item>ja</item>
-        <item>ja</item>
-        <item>ja</item>
-        <item>ja</item>
-        <item>ja</item>
-        <item>en</item>
-        <item>ja</item>
-        <item>ja</item>
-        <item>ja</item>
-        <item>en</item>
-        <item>en</item>
-        <item>en</item>
-        <item></item>
-        <item>en</item>
-        <item>en</item>
-        <item></item>
-        <item>en</item>
-        <item></item>
-        <item>ja,en</item>
-        <item>ja</item>
-        <item>en</item>
-        <item>en,ja</item>
-        <item>ja</item>
-        <item>ja</item>
-        <item>en</item>
-        <item>ja</item>
-        <item>ja</item>
-        <item>ja</item>
-        <item>ja</item>
-        <item></item>
-        <item>ja</item>
-        <item>ja</item>
-        <item>ja</item>
-        <item>en</item>
-        <item></item>
-        <item>en</item>
-        <item></item>
-        <item>ja</item>
-        <item>ja</item>
-        <item></item>
-        <item>en</item>
-        <item>en</item>
-        <item>ja</item>
-        <item>ja</item>
-        <item>ja</item>
-        <item>ja</item>
-        <item>en</item>
-        <item></item>
-        <item>ja</item>
-        <item>en</item>
-        <item></item>
-        <item>ja</item>
-        <item>ja</item>
-        <item></item>
-        <item>ja</item>
-        <item>en</item>
-        <item>ja</item>
-        <item>en</item>
-        <item>ja</item>
-        <item>ja</item>
-        <item>ja</item>
-        <item>ja</item>
-        <item>ja</item>
-    </string-array>
+
+<string-array name="lang">
+<item>en</item>
+<item>en</item>
+<item>ja</item>
+<item>ja</item>
+<item></item>
+<item>en</item>
+<item>ja</item>
+<item></item>
+<item>ja</item>
+<item>ja</item>
+<item>en</item>
+<item>en</item>
+<item></item>
+<item>en</item>
+<item>en</item>
+<item>en</item>
+<item></item>
+<item>ja</item>
+<item>en</item>
+<item>en,ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item></item>
+<item>ja</item>
+<item>ja</item>
+<item></item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item></item>
+<item>ja</item>
+<item></item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>en</item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>en</item>
+<item>en</item>
+<item>en</item>
+<item></item>
+<item>en</item>
+<item>en</item>
+<item></item>
+<item>en</item>
+<item></item>
+<item>ja,en</item>
+<item>ja</item>
+<item>en</item>
+<item>en,ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>en</item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item></item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>en</item>
+<item></item>
+<item>en</item>
+<item></item>
+<item>ja</item>
+<item>ja</item>
+<item></item>
+<item>en</item>
+<item>en</item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>en</item>
+<item></item>
+<item>ja</item>
+<item>en</item>
+<item></item>
+<item>ja</item>
+<item>ja</item>
+<item></item>
+<item>ja</item>
+<item>en</item>
+<item>ja</item>
+<item>en</item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>ja,en</item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>en</item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+</string-array>
+
 </resources>

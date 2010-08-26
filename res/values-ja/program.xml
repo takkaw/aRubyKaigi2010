@@ -2,7 +2,7 @@
 <resources>
 <string-array name="title">
 <item>Opening</item>
-<item>基調講演</item>
+<item>(調整中)</item>
 <item>jpmobile on Rails 3 の作り方</item>
 <item>Ruby on Railsではじめる携帯電話向けオープンソーシャルアプリケーション開発</item>
 <item>Break</item>
@@ -103,10 +103,22 @@
 <item>Ruby powering 9 million dining tables</item>
 <item>MSWin32版Ruby野良ビルダー養成塾</item>
 <item>Ruby で作る Ruby の折り紙</item>
+<item>[サイン会] メタプログラミングRuby</item>
+<item>[サイン会] JavaによるRESTfulシステム構築</item>
+<item>[サイン会] Rubyレシピブック 第3版 303の技</item>
+<item>[サイン会] たのしいRuby 第3版</item>
+<item>[サイン会] Rubyベストプラクティス</item>
+<item>[サイン会] 情熱プログラマー</item>
+<item>[サイン会] JRuby on Rails実践開発ガイド</item>
+<item>[サイン会] JRuby on Railsシステム構築入門</item>
+<item>[サイン会] Google Wave入門</item>
+<item>[サイン会] Head First Rails</item>
+<item>[サイン会] ガベージコレクションのアルゴリズムと実装</item>
 </string-array>
+
 <string-array name="desc">
 <item></item>
-<item></item>
+<item>Jeremy Kemper氏の基調講演はご本人の都合により中止となりました。代替プログラムについては、追ってアナウンスいたします。悪しからずご了承ください</item>
 <item>jpmobile を Rails 3 や Sinatra に対応させるまでの道のりを紹介。Rack化や絵文字やデコメへの対応などを、どのようにRailsをハックしたかとともに紹介します。</item>
 <item>携帯電話向けのオープンソーシャルアプリケーション開発の世界では、PHPがメジャーな言語ですが、Ruby on Railsを使った開発も可能です。私達が自社プロダクト「スイーツコレクション」の開発を通じて得たノウハウを公開するとともに、Ruby on Railsを使ったオープンソーシャルアプリケーション開発をご紹介します。</item>
 <item></item>
@@ -258,7 +270,7 @@ http://qwik.atdot.net/rubykaigi2010keysignparty/FrontPageJa.html</item>
 <item>RubyのためにRubyistができることについて話し合うイベント。 RubyKaigi2010の時期には実は第6期が終わっているので、第6期の活動のふりかえりと、第7期の活動のアイデア出しをやりましょう!</item>
 <item>Rubyistの約半数が使用していると噂の統合開発環境Vimについて、使いこなすためのノウハウや快適にRubyコードを書くためのテクニックを交換しあう勉強会です。
 
-当日は有志によるライトニングトーク、Q&amp;A および会場内で得た知識を実践するためのfree hack時間を設け、参加者のVim戦闘力を向上させる予定です。</item>
+当日は有志によるライトニングトーク、Q&amp;A、および会場内で得た知識を実践するためのfree hack時間を設け、参加者のVim戦闘力を向上させる予定です。</item>
 <item>Ruby の折り紙を折ります。http://dl.dropbox.com/u/4921720/RubyFoldings/IMG_0362.A3_C35_Chu25.WebSmall.JPG
 折り線をプリントした展開図を用意しますので、前半それを参考にみんなで折りましょう。後半は、ちょっと難しくなりますがホイル折紙や透明折紙(セロファン)で折ってみたり、或は展開図を作成する Rubyスクリプトを読みましょう。</item>
 <item></item>
@@ -338,6 +350,17 @@ on Rails製サイトとして成長を続けている理由とは何か。日々
 http://techlife.cookpad.com/</item>
 <item>この企画は、無料の意味でのFreeなVisual C++ 2010 Expressを利用して、WindowsでRubyのタールボール（安定版、および最新版スナップショット）からのmakeとinstall、PATH の通し方、拡張ライブラリの作成、make、インストール、Gemの管理など、Ruby野良ビルダーに最低限必要な知識をハンズオン形式で講習します。</item>
 <item>Ruby の折り紙を折ります。 http://dl.dropbox.com/u/4921720/RubyFoldings/IMG_0362.A3_C35_Chu25.WebSmall.JPG 折り線をプリントした展開図を用意しますので、前半それを参考にみんなで折りましょう。後半は、ちょっと難しくなりますがホイル折紙や透明折紙(セロファン)で折ってみたり、或は展開図を作成する Rubyスクリプトを読みましょう。</item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
 </string-array>
 
 <string-array name="room">
@@ -443,6 +466,17 @@ http://techlife.cookpad.com/</item>
 <item>201-B</item>
 <item>201-B</item>
 <item>ホワイエ</item>
+<item>ジュンク堂</item>
+<item>ジュンク堂</item>
+<item>ジュンク堂</item>
+<item>ジュンク堂</item>
+<item>ジュンク堂</item>
+<item>ジュンク堂</item>
+<item>ジュンク堂</item>
+<item>ジュンク堂</item>
+<item>ジュンク堂</item>
+<item>ジュンク堂</item>
+<item>ジュンク堂</item>
 </string-array>
 
 </resources>

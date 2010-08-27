@@ -114,6 +114,24 @@
 <item>29</item>
 <item>29</item>
 <item>29</item>
+<item>28</item>
+<item>28</item>
+<item>28</item>
+<item>28</item>
+<item>28</item>
+<item>28</item>
+<item>28</item>
+<item>28</item>
+<item>28</item>
+<item>28</item>
+<item>28</item>
+<item>28</item>
+<item>28</item>
+<item>28</item>
+<item>28</item>
+<item>28</item>
+<item>28</item>
+<item>28</item>
 </string-array>
 
 <string-array name="room">
@@ -230,6 +248,24 @@
 <item>BookStore JUNKDO</item>
 <item>BookStore JUNKDO</item>
 <item>BookStore JUNKDO</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
 </string-array>
 
 <string-array name="start">
@@ -346,6 +382,24 @@
 <item>12:00</item>
 <item>14:30</item>
 <item>14:30</item>
+<item>13:30</item>
+<item>14:00</item>
+<item>14:30</item>
+<item>15:00</item>
+<item>15:30</item>
+<item>15:50</item>
+<item>16:10</item>
+<item>16:30</item>
+<item>17:00</item>
+<item>17:00</item>
+<item>17:00</item>
+<item>17:00</item>
+<item>17:00</item>
+<item>17:00</item>
+<item>17:00</item>
+<item>17:00</item>
+<item>17:00</item>
+<item>17:00</item>
 </string-array>
 
 <string-array name="end">
@@ -462,6 +516,24 @@
 <item>13:30</item>
 <item>15:00</item>
 <item>15:00</item>
+<item>14:00</item>
+<item>14:30</item>
+<item>15:00</item>
+<item>15:30</item>
+<item>15:50</item>
+<item>16:10</item>
+<item>16:30</item>
+<item>17:00</item>
+<item>18:00</item>
+<item>18:00</item>
+<item>18:00</item>
+<item>18:00</item>
+<item>18:00</item>
+<item>18:00</item>
+<item>18:00</item>
+<item>18:00</item>
+<item>18:00</item>
+<item>18:00</item>
 </string-array>
 
 <string-array name="title">
@@ -578,6 +650,24 @@
 <item>[Autograph Session] Google Wave入門</item>
 <item>[Autograph Session] Head First Rails</item>
 <item>[Autograph Session] ガベージコレクションのアルゴリズムと実装</item>
+<item>[JRubyKaigi] Keynote - JRuby: Pony Show</item>
+<item>[JRubyKaigi] Want to use Ruby from Java? RedBridge makes it pretty easy!</item>
+<item>[JRubyKaigi] Rubyist, it's time to develop your Rails app on Google App Engine.</item>
+<item>[JRubyKaigi] Break</item>
+<item>[JRubyKaigi] 10 things : How to enhance the power of JRuby on Rails using Java EE technology</item>
+<item>[JRubyKaigi] MapReduce by JRuby and DSL ~ Hadoop Papyrus</item>
+<item>[JRubyKaigi] JRuby Hacking Guide</item>
+<item>[JRubyKaigi] Break</item>
+<item>[JRubyKaigi Lightning Talks] Introduction of Japan JRuby User Group</item>
+<item>[JRubyKaigi Lightning Talks] ROMA on JRuby</item>
+<item>[JRubyKaigi Lightning Talks] All right, then, JRuby!</item>
+<item>[JRubyKaigi Lightning Talks] Extreme performance with Mirah and Dubious</item>
+<item>[JRubyKaigi Lightning Talks] Rava on JRuby</item>
+<item>[JRubyKaigi Lightning Talks] Testing Your Code with JRuby</item>
+<item>[JRubyKaigi Lightning Talks] RJB - another choice for Ruby and Java interoperability</item>
+<item>[JRubyKaigi Lightning Talks] Play swing and JDBC with Rubeus</item>
+<item>[JRubyKaigi Lightning Talks] Kink: developing a programming language on the JVM</item>
+<item>[JRubyKaigi Lightning Talks] How to make visualize card application using JRuby?</item>
 </string-array>
 
 <string-array name="speaker">
@@ -694,6 +784,24 @@
 <item>あんどうやすし</item>
 <item>松田明</item>
 <item>中村 成洋</item>
+<item>Charles O.Nutter , Thomas Enebo</item>
+<item>Yoko Harada</item>
+<item>Takeru SASAKI</item>
+<item></item>
+<item>Yoshiharu HASHIMOTO</item>
+<item>Koichi Fujikawa</item>
+<item>Hiroshi NAKAMURA</item>
+<item></item>
+<item>Koichi Fujikawa</item>
+<item>Muga Nishizawa</item>
+<item>Hidekuni Kajita</item>
+<item>John Woodell</item>
+<item>Koichiro Ohba</item>
+<item>Ayumu Aizawa</item>
+<item>arton</item>
+<item>Takeshi Akima</item>
+<item>Taku Miyakawa</item>
+<item>Hiroki Kondo</item>
 </string-array>
 
 <string-array name="desc">
@@ -924,11 +1032,32 @@ engineers regardless of nationality. We would appreciate participation
 of non-Japanese technicians interested in working with a Japanese 
 company.
 
-&lt;Reference&gt;
+&lt;Reference&gt; 
 Cookpad Developer Blog 
 http://techlife.cookpad.com/</item>
 <item>This hands-on is for Window user who 'd like to build own ruby, extended libs and gem. From installation of the compiler to build own extended library.</item>
 <item>Let's fold origami "Ruby" like http://dl.dropbox.com/u/4921720/RubyFoldings/IMG_0362.A3_C35_Chu25.WebSmall.JPG. In the first half, we will fold origami "Ruby" together with the origami paper that has crease fold lines. In the second half, we will fold something with foil paper and cellophane paper and read a Ruby script that generates paper with crease fold lines.</item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item>Thomas and Charles will give an overview of the state of the JRuby project.
+They will also give sneak peeks of JRuby's future.</item>
+<item>From introduction of JRuby to howtos of RedBridge. You’ll get better understandings of JRuby, which leads you effectively to RedBrdige API.</item>
+<item>Rubyist, it's time to develop your Rails app on Google App Engine.</item>
+<item></item>
+<item>Using Java EE technology enhance the power of JRuby on Rails(JRoR) when you use JRoR through SOAP Web service. In this session, I mention 10 things how to enhance the power of JRoR.</item>
+<item>For all who want to use Hadoop but never to write Java.
+Hadoop Papyrus can make you happy! 
+You can analyze big logs by Ruby-base DSL w/o regard for MapReduce.</item>
+<item>Aims; extracting what is where in JRuby source code, showing how those interacts when, and hacking/troubleshooting it by examples in 20 min.</item>
 <item></item>
 <item></item>
 <item></item>
@@ -1051,6 +1180,24 @@ http://techlife.cookpad.com/</item>
 <item>ja</item>
 <item>ja</item>
 <item>en</item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>en</item>
+<item>ja</item>
+<item>ja</item>
+<item></item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item></item>
+<item>ja</item>
+<item>ja</item>
+<item>ja</item>
+<item>en</item>
+<item>ja</item>
 <item>ja</item>
 <item>ja</item>
 <item>ja</item>

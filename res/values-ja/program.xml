@@ -114,6 +114,24 @@
 <item>[サイン会] Google Wave入門</item>
 <item>[サイン会] Head First Rails</item>
 <item>[サイン会] ガベージコレクションのアルゴリズムと実装</item>
+<item>[JRubyKaigi] Keynote - JRuby: Pony Show</item>
+<item>[JRubyKaigi] RedBridgeで簡単プログラミング。JavaからRubyを使っちゃえ！</item>
+<item>[JRubyKaigi] はじめよう GoogleAppEngine/JRuby on Rails</item>
+<item>[JRubyKaigi] Break</item>
+<item>[JRubyKaigi] JRuby on Railsの力をJava EE技術を使ってさらに高める10の方法</item>
+<item>[JRubyKaigi] JRubyとDSLでMapReduce ~ Hadoop Papyrus</item>
+<item>[JRubyKaigi] JRubyソースコード解説</item>
+<item>[JRubyKaigi] Break</item>
+<item>[JRubyKaigi Lightning Talks] 日本JRubyユーザ会の紹介</item>
+<item>[JRubyKaigi Lightning Talks] ROMA on JRuby</item>
+<item>[JRubyKaigi Lightning Talks] よろしい、ならばJRubyだ！</item>
+<item>[JRubyKaigi Lightning Talks] Extreme performance with Mirah and Dubious</item>
+<item>[JRubyKaigi Lightning Talks] Rava on JRuby</item>
+<item>[JRubyKaigi Lightning Talks] Testing Your Code with JRuby</item>
+<item>[JRubyKaigi Lightning Talks] RubyとJava、もう1つの選択</item>
+<item>[JRubyKaigi Lightning Talks] RubeusでswingとJDBC</item>
+<item>[JRubyKaigi Lightning Talks] Kink: JVM上に言語処理系を作って、考えたこと</item>
+<item>[JRubyKaigi Lightning Talks] JRubyでカードアプリケーションを作ってみよう</item>
 </string-array>
 
 <string-array name="desc">
@@ -361,6 +379,24 @@ http://techlife.cookpad.com/</item>
 <item></item>
 <item></item>
 <item></item>
+<item>JRuby開発者のトーマスとチャールズが、JRubyプロジェクトの現況と今後の展望について語ります。</item>
+<item>JRubyって何がいいの？の疑問にお応えしつつ、JavaからRubyを簡単に使えるようにしたAPI, RedBrdigeを紹介します。RedBrdigeで何が良くなったのか、どんな風に使えるのかの具体例や、どこで使うと便利なのかについて話します。</item>
+<item>開発環境の作り方、AppEngineの特徴、できること/できないこと、向くこと/向かないことなど、RubyでWebアプリ開発をしている普通のRubyistがGoogleAppEngine/JRuby向けの開発を始めるために知っておくべき１３個(ぐらい)の重要ポイントを一挙公開。</item>
+<item></item>
+<item>JRuby on Rails (JRoR)からSOAP Webサービスを利用したい時などJava EE技術の活用によってJRoRが持つ力をさらに高めることができます。本セッションではJava EE技術を使ってJRoRの力を高めるために知っておくべき10の方法をご紹介します。</item>
+<item>Hadoopを使いたいけどJavaは絶対書きたくないすべての人に。Hadoop Papyrusを使ってあなたの悩みを解決しましょう！RubyベースのDSLで、並列分散処理(MapReduce)を意識せずに、大量ログ分析とかができるようになります。</item>
+<item>目的: JRubyソースコードのどこに何があるかを示し、それらがいつどのように協調して振る舞うかをお見せし、最後に実例を使ってJRubyのハックおよびトラブルシュートを行います。</item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
 </string-array>
 
 <string-array name="room">
@@ -477,6 +513,24 @@ http://techlife.cookpad.com/</item>
 <item>ジュンク堂</item>
 <item>ジュンク堂</item>
 <item>ジュンク堂</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
+<item>202-B</item>
 </string-array>
 
 </resources>
